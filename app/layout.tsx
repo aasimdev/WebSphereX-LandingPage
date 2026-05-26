@@ -81,13 +81,6 @@ export const metadata: Metadata = {
     description:
       "Senior-only software & AI agency. Fixed-price, outcome-guaranteed, HIPAA/GDPR compliant.",
   },
-  icons: {
-    icon: [
-      { url: "/favicon.ico", sizes: "any" },
-      { url: "/favicon.svg", type: "image/svg+xml" },
-    ],
-    apple: "/apple-touch-icon.png",
-  },
   formatDetection: {
     email: false,
     address: false,
