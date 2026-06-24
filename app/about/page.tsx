@@ -215,7 +215,7 @@ function AboutHero() {
             <div className="flex items-center gap-2 mt-auto">
               <div className="w-7 h-7 rounded-lg bg-[#0048ff] flex items-center justify-center text-white text-[10px] font-bold flex-shrink-0">AR</div>
               <div>
-                <p className="text-[11px] font-semibold text-[#0f1c3f]">Ahmad Raza</p>
+                <p className="text-[11px] font-semibold text-[#0f1c3f]">Asim Hameed</p>
                 <p className="text-[10px] text-[#6b7280]">Co-Founder &amp; CEO</p>
               </div>
             </div>
@@ -333,7 +333,7 @@ export default function AboutPage() {
                     AR
                   </div>
                   <div>
-                    <p className="text-sm font-semibold text-[#0f1c3f]">Ahmad Raza</p>
+                    <p className="text-sm font-semibold text-[#0f1c3f]">Asim Hameed</p>
                     <p className="text-xs text-gray-400">Co-Founder &amp; CEO</p>
                   </div>
                 </div>
